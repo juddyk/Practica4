@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SanAndresApp</string>
+
+    <string name="title_activity_about">About me</string>
+    <string name="textItem1">About</string>
+    <string name="textBotonHotel">Hotels</string>
+    <string name="textBotonBar">Bars</string>
+    <string name="textBotonSitios">Other Sites</string>
+    <string name="textBotonMapa">Maps</string>
+    <string name="textBotonPublic">Show</string>
+    <string name="title_activity_hotel">Hotels</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bares">Bars</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sitios">Place to Meet</string>
+    <string name="title_activity_mapa">Demography</string>
+    <string name="title_activity_publicidad">publicidad</string>
+
+</resources>

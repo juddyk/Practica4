@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.juddyreina.sanandresapp" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".about"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name=".hotel"
+            android:label="@string/title_activity_hotel" >
+        </activity>
+        <activity
+            android:name=".bares"
+            android:label="@string/title_activity_bares" >
+        </activity>
+        <activity
+            android:name=".Sitios"
+            android:label="@string/title_activity_sitios" >
+        </activity>
+        <activity
+            android:name=".Mapa"
+            android:label="@string/title_activity_mapa" >
+        </activity>
+        <activity
+            android:name=".publicidad"
+            android:label="@string/title_activity_publicidad" >
+        </activity>
+    </application>
+
+</manifest>
