@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SanAndres App</string>
+
+    <string name="title_activity_about">Informations Personnelles</string>
+    <string name="textItem1">Sur moi</string>
+    <string name="textBotonHotel">Des hôtels</string>
+    <string name="textBotonBar">Des Bars</string>
+    <string name="textBotonSitios">D´autres lieux</string>
+    <string name="textBotonMapa">Sur la ville</string>
+    <string name="textBotonPublic">Show</string>
+    <string name="title_activity_hotel">Des Hôtels</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="title_activity_bares">Des Bars</string>
+    <string name="title_activity_sitios">Des lieux pour Connaître</string>
+    <string name="title_activity_mapa">Démographie</string>
+    <string name="title_activity_publicidad">Plus sur San Andrés</string>
+    <string name="info_hotel1">Il a toute la magie de la Caribe , en face de la plage principale et à seulement quelques pas de la meilleure secteur commercial </string>
+    <string name="info_hotel2">Nous vous offrons la discothèque, des spectacles de nuit, des activités pour des enfants et une large offre gastronomique et d´alcools</string>
+    <string name="info_hotel3">Qualité, confort, attention excellente et TOUT LE INCLUS</string>
+    <string name="info_bar1">Reggae, menu avec beaucoup de variété et les meilleurs prix</string>
+    <string name="info_bar2">Cède à templation, venir avec nous</string>
+    <string name="info_bar3">Voici la meilleure vie nocturne dans San Andrés</string>
+    <string name="info_sitio1">Le sable blanc, la brise et la mer, sont une place idéal pour relaxant</string>
+    <string name="info_sitio2">Un plan différent d´aimer</string>
+    <string name="info_sitio3">C´est un parc éco où vous pouvez jouir de la nature, la culture et la mer</string>
+
+    <string-array name="nomH">
+        <item>Casablanca</item>
+        <item>Arena Blanca</item>
+        <item>DECAMERON</item>
+    </string-array>
+    <string-array name="dirH">
+        <item>Av. Colombia con Av. Costa Rica #3~59</item>
+        <item>Rue 2 #1~51,Punta Hansa</item>
+        <item>Av. Colón, Rue 3ra #6~106</item>
+    </string-array>
+
+    <string-array name="nomB">
+        <item>Banzai</item>
+        <item>Beer Station</item>
+        <item>Coco Loco</item>
+    </string-array>
+    <string-array name="dirB">
+        <item>Rue Francisco Newball~le local á usage commercial 119</item>
+        <item>Av. Colombia #1a~16 le local á usage commercial 102</item>
+        <item>Av. Colombia fte Tres casitas</item>
+    </string-array>
+
+    <string-array name="nomS">
+        <item>Cayo Bolivar</item>
+        <item>Jardin Botanico</item>
+        <item>Eco parque West View</item>
+    </string-array>
+    <string-array name="dirS">
+        <item>de Belles plages</item>
+        <item>c´est un lieu de Culture</item>
+        <item>Nous sommes dans le sud-ouest</item>
+    </string-array>
+
+    <string name="superficie">Surface</string>
+    <string name="sValue">52.5 Km2</string>
+
+    <string name="poblacion">Population</string>
+    <string name="pValue">76.442 (DANE-2005)</string>
+
+    <string name="densidad">Densité</string>
+    <string name="dValue">1456.04 Hab/Km2</string>
+
+    <string name="NAME">Juddy K. Reina Pardo</string>
+    <string name="info1">Étudiante</string>
+    <string name="info2">Génie Électronique</string>
+    <string name="info3">Université</string>
+    <string name="info4">Universidad de Antioquia</string>
+
+    <string name="mensaje">Tomber amoureux de San Andrés</string>
+
+</resources>

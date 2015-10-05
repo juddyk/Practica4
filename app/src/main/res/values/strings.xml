@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SanAndresApp</string>
+    <string name="app_name">SanAndres App</string>
 
     <string name="title_activity_about">About me</string>
     <string name="textItem1">About</string>
@@ -14,6 +14,65 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_sitios">Place to Meet</string>
     <string name="title_activity_mapa">Demography</string>
-    <string name="title_activity_publicidad">publicidad</string>
+    <string name="title_activity_publicidad">More about San Andrés</string>
+    <string name="info_hotel1">It has the whole magic of the Caribe, opposite to the principal beach and only a few steps of the best commercial sector.</string>
+    <string name="info_hotel2">We offer you discotheque, night shows, activities for children and a wide gastronomic offer and of liquors</string>
+    <string name="info_hotel3">Quality, comfort, excellent attention and EVERYTHING INCLUDED</string>
+    <string name="info_bar1">Reggae, menu with a lot of variety and the best prices</string>
+    <string name="info_bar2">Yields to templation, come with us </string>
+    <string name="info_bar3">Here is the best nightlife in San Andrés</string>
+    <string name="info_sitio1">White sand, breeze and sea, is an ideal place for relaxing</string>
+    <string name="info_sitio2">A different plan to enjoy</string>
+    <string name="info_sitio3">it is an eco park where you can enjoy nature,culture and the sea</string>
+
+    <string-array name="nomH">
+        <item>Casablanca</item>
+        <item>Arena Blanca</item>
+        <item>DECAMERON</item>
+    </string-array>
+    <string-array name="dirH">
+        <item>Av. Colombia con Av. Costa Rica #3~59</item>
+        <item>Street 2 #1~51,Punta Hansa</item>
+        <item>Av. Colón, Street 3ra #6~106</item>
+    </string-array>
+
+    <string-array name="nomB">
+        <item>Banzai</item>
+        <item>Beer Station</item>
+        <item>Coco Loco</item>
+    </string-array>
+    <string-array name="dirB">
+        <item>Calle Francisco Newball~local 119</item>
+        <item>Av. Colombia #1a~16 local 102</item>
+        <item>Av. Colombia fte tres casitas</item>
+    </string-array>
+
+    <string-array name="nomS">
+        <item>Cayo Bolivar</item>
+        <item>Jardin Botanico</item>
+        <item>Eco parque West View</item>
+    </string-array>
+    <string-array name="dirS">
+        <item>Beautiful Beaches</item>
+        <item>A place of culture</item>
+        <item>We are in the southwest</item>
+    </string-array>
+
+    <string name="superficie">Surface</string>
+    <string name="sValue">52.5 Km2</string>
+
+    <string name="poblacion">Population</string>
+    <string name="pValue">76.442 (DANE-2005)</string>
+
+    <string name="densidad">Density</string>
+    <string name="dValue">1456.04 Hab/Km2</string>
+
+    <string name="NAME">Juddy K. Reina Pardo</string>
+    <string name="info1">Student</string>
+    <string name="info2">Electronic Engineering</string>
+    <string name="info3">University</string>
+    <string name="info4">Universidad de Antioquia</string>
+
+    <string name="mensaje">Fall in love of San Andrés</string>
 
 </resources>
