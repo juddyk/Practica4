@@ -27,6 +27,7 @@ public class Bar extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bar);
+
         String [] var1=getResources().getStringArray(R.array.nomB);
         String [] var2=getResources().getStringArray(R.array.dirB);
 

@@ -21,7 +21,6 @@ public class hotel extends AppCompatActivity {
 
     ListView lvHotel;
     private listas[] datos=new listas[]{
-
             new listas(R.drawable.smarth_casablanca,"",""),
             new listas(R.drawable.smarth_arenablanca,"",""),
             new listas(R.drawable.smarth_decameron,"","")
