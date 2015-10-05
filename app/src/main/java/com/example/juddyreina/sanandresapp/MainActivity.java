@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void pasarBar(View v){
-        Intent i=new Intent(this, bares.class);
+        Intent i=new Intent(this, Bar.class);
         startActivity(i);
     }
 

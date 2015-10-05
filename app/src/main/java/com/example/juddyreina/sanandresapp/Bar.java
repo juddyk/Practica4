@@ -15,7 +15,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class bares extends AppCompatActivity {
+public class Bar extends AppCompatActivity {
     ListView lvBar;
     private listas[] datos=new listas[]{
             new listas(R.drawable.smartb_banzai,"", ""),
@@ -23,11 +23,10 @@ public class bares extends AppCompatActivity {
             new listas(R.drawable.smartb_cocoloco,"","")
     };
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_bares);
+        setContentView(R.layout.activity_bar);
         String [] var1=getResources().getStringArray(R.array.nomB);
         String [] var2=getResources().getStringArray(R.array.dirB);
 
@@ -49,23 +48,25 @@ public class bares extends AppCompatActivity {
 
                 switch (sel) {
                     case 0:
-                        Toast.makeText(bares.this, R.string.info_bar1, Toast.LENGTH_LONG).show();
+                        Toast.makeText(Bar.this, R.string.info_bar1, Toast.LENGTH_LONG).show();
                         break;
                     case 1:
-                        Toast.makeText(bares.this, R.string.info_bar2, Toast.LENGTH_LONG).show();
+                        Toast.makeText(Bar.this, R.string.info_bar2, Toast.LENGTH_LONG).show();
                         break;
                     case 2:
-                        Toast.makeText(bares.this, R.string.info_bar3, Toast.LENGTH_LONG).show();
+                        Toast.makeText(Bar.this, R.string.info_bar3, Toast.LENGTH_LONG).show();
                         break;
                 }
             }
         });
+
+
     }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_bares, menu);
+        getMenuInflater().inflate(R.menu.menu_bar, menu);
         return true;
     }
 
@@ -78,7 +79,7 @@ public class bares extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public class Adapter extends ArrayAdapter<listas>{
+    public class Adapter extends ArrayAdapter<listas> {
         public Adapter(Context context, listas[] datos){super(context, R.layout.layout_listas,datos);}
 
         @Override

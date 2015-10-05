@@ -74,5 +74,6 @@
     <string name="info4">Universidad de Antioquia</string>
 
     <string name="mensaje">Fall in love of San Andrés</string>
+    <string name="title_activity_bar">Bar</string>
 
 </resources>

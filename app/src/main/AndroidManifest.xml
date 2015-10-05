@@ -25,10 +25,6 @@
             android:label="@string/title_activity_hotel" >
         </activity>
         <activity
-            android:name=".bares"
-            android:label="@string/title_activity_bares" >
-        </activity>
-        <activity
             android:name=".Sitios"
             android:label="@string/title_activity_sitios" >
         </activity>
@@ -39,6 +35,10 @@
         <activity
             android:name=".publicidad"
             android:label="@string/title_activity_publicidad" >
+        </activity>
+        <activity
+            android:name=".Bar"
+            android:label="@string/title_activity_bar" >
         </activity>
     </application>
 
