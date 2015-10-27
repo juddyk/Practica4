@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.itemABOUT) {
-            Toast.makeText(this, "ABOUT", Toast.LENGTH_SHORT).show();
+           // Toast.makeText(this, "ABOUT", Toast.LENGTH_SHORT).show();
             //abrir una actividad de dialogo
             Intent i= new Intent(this, about.class);
             startActivity(i);
